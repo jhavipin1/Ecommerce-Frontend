@@ -1,2 +1,2 @@
 # Ecommerce-Frontend
-Ecommerce-Backend in Angular
+Ecommerce-Frontend in Angular
